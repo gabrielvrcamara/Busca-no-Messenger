@@ -19,7 +19,7 @@ inicio = """Olá, Seja bem-vindo(a) ao seu auxiliar de pesquisas no Messenger. C
 num_sites = None
 token_fb = '__TOKEN__'
 senhaAPI = "__TOKEN__"
-token_rapidapi = "__TOKEN__"
+token_rapidapi = ["__TOKEN__"]
 cache = Cache()
 
 
